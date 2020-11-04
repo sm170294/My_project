@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f1fdd4a8-78b4-43a3-a7bc-abf7005cb610" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
-    </list>
+    <list default="true" id="f1fdd4a8-78b4-43a3-a7bc-abf7005cb610" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -63,7 +59,7 @@
       <option name="presentableId" value="Default" />
       <updated>1604126103757</updated>
       <workItem from="1604126105624" duration="9000" />
-      <workItem from="1604453456824" duration="518000" />
+      <workItem from="1604453456824" duration="768000" />
     </task>
     <servers />
   </component>
